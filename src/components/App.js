@@ -16,17 +16,17 @@ const states = [{
         }]
     },{
         name : "Bhopal",
-        description:"DBhopal is a city in the central Indian state of Madhya Pradesh. It's one of India’s greenest city. There are two main lakes, the Upper Lake and the Lower Lake.",
+        description:"DBhopal is a city in the central Indian state of Madhya Pradesh. It's one of India\'s greenest city. There are two main lakes, the Upper Lake and the Lower Lake.",
         landmarks :[{
             name : "MANIT",
-            description:"Maulana Azad National Institute of Technology Bhopal is a public technical university located in Bhopal, Madhya Pradesh, India. It is part of a group of publicly funded institutions in India known as National Institutes of Technology. ",
+            description:"Maulana Azad National Institute of Technology Bhopal is a public technical university located in Bhopal, Madhya Pradesh, India. It is part of a group of publicly funded institutions in India known as National Institutes of Technology.",
         },{
             name: "Berasia",
-            description:"Berasia is a landmark and a nagar palika in Bhopal district in the state of Madhya Pradesh, India. ",
+            description:"Berasia is a landmark and a nagar palika in Bhopal district in the state of Madhya Pradesh, India.",
         }]
     },{
         name : "Gwalior",
-        description:"Gwalior is a city in the central Indian state of Madhya Pradesh. It's known for its palaces and temples, including the Sas Bahu Ka Mandir intricately carved Hindu temple. ",
+        description:"Gwalior is a city in the central Indian state of Madhya Pradesh. It\'s known for its palaces and temples, including the Sas Bahu Ka Mandir intricately carved Hindu temple.",
         landmarks :[{
             name : "Ajaypur",
             description:"Little less known city Ajaypur.",
@@ -34,7 +34,7 @@ const states = [{
     }]
 },{
     name : "Jharkhand",
-    description:"Jharkhand is a state in eastern India. It's known for its waterfalls, the elegant Jain temples of Parasnath Hill and the elephants and tigers of Betla National Park.",
+    description:"Jharkhand is a state in eastern India. It\'s known for its waterfalls, the elegant Jain temples of Parasnath Hill and the elephants and tigers of Betla National Park.",
     city :[{
         name : "Dhanbad",
         description:"Dhanbad is the second-most populated city in the Indian state of Jharkhand. It ranks as the 33rd largest city in India and is the 42nd largest million-plus urban agglomeration in India. It is the 96th fastest growing urban area of the world by the City Mayors Foundation.",
@@ -47,7 +47,7 @@ const states = [{
         }]
     },{
         name : "Wasseypur",
-        description:"Wasseypur is a neighbourhood in the city of Dhanbad in Dhanbad Sadar subdivision of Dhanbad district in the state of Jharkhand in India. ",
+        description:"Wasseypur is a neighbourhood in the city of Dhanbad in Dhanbad Sadar subdivision of Dhanbad district in the state of Jharkhand in India.",
         landmarks :[{
             name : "Pandey muhalla",
             description:"Located behind the dhanbad junction is must visit place.",
@@ -68,10 +68,10 @@ const states = [{
     }]
 },{
     name : "Assam",
-    description:"Assam is a state in northeastern India known for its wildlife, archeological sites and tea plantations. ",
+    description:"Assam is a state in northeastern India known for its wildlife, archeological sites and tea plantations.",
     city :[{
         name : "Guwhati",
-        description:"Guwahati is a sprawling city beside the Brahmaputra River in the northeast Indian state of Assam. It’s known for holy sites like the hilltop Kamakhya Temple,",
+        description:"Guwahati is a sprawling city beside the Brahmaputra River in the northeast Indian state of Assam. It\'s known for holy sites like the hilltop Kamakhya Temple.",
         landmarks :[{
             name : "Ganesh Guri",
             description:"Famous because of PVR city center.",
@@ -115,7 +115,7 @@ const states = [{
         }]
     },{
         name : "Gaya",
-        description:"Gaya is a holy city beside the Falgu River, in the northeast Indian state of Bihar. It’s known for 18th-century Vishnupad Mandir, a riverside temple with an octagonal shrine. Close by, ancient Mangla Gauri Temple is set on a hilltop. ",
+        description:"Gaya is a holy city beside the Falgu River, in the northeast Indian state of Bihar. It\'s known for 18th-century Vishnupad Mandir, a riverside temple with an octagonal shrine. Close by, ancient Mangla Gauri Temple is set on a hilltop.",
         landmarks :[{
             name : "Bakraur",
             description:"Bakraur, sometimes called Bakrour, is a village located slightly east of Bodh Gaya in the state of Bihar, India. It lies directly across the Phalgu River from the landmark of Bodh Gaya, where Gautama Buddha is said to have attained enlightenment.",
