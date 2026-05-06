@@ -192,19 +192,19 @@ function App() {
             <div className="details-container">
                 <div className="detail-section">
                     <h3>State Info</h3>
-                    <div id="state-name">{selectedState.name}</div>
+                    <div id="state-title">{selectedState.name}</div>
                     <div id="state-description">{selectedState.description}</div>
                 </div>
 
                 <div className="detail-section">
                     <h3>City Info</h3>
-                    <div id="city-name">{selectedCity.name}</div>
+                    <div id="city-title">{selectedCity.name}</div>
                     <div id="city-description">{selectedCity.description}</div>
                 </div>
 
                 <div className="detail-section">
                     <h3>Landmark Info</h3>
-                    <div id="landmark-name">{selectedLandmark.name}</div>
+                    <div id="landmark-title">{selectedLandmark.name}</div>
                     <div id="landmark-description">{selectedLandmark.description}</div>
                 </div>
             </div>
